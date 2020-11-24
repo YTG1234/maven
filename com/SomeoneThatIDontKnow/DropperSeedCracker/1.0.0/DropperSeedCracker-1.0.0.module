@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.5",
-      "buildId": "j4zeea5wg5afbervbvxsnft62a"
+      "buildId": "oupnbhfxonedhkgdd5hibfagmu"
     }
   },
   "variants": [
@@ -28,11 +28,11 @@
         {
           "name": "DropperSeedCracker-1.0.0.jar",
           "url": "DropperSeedCracker-1.0.0.jar",
-          "size": 1963,
-          "sha512": "4e3b8577dd954921e8b7633e46991cb3a6adb8f728cce3c5b3c449aa430e20c0268d8fd784e6e1a2dc53858737b0ca6b7e67cfe2fac8abff8f08865de58d8b2b",
-          "sha256": "1d63d22aa6bb3a21722e3c2a4408ce4b4862a2249df0a21b806911ac26cbaae0",
-          "sha1": "15576533b09ad7e41099485316d87521a4dc4591",
-          "md5": "e1cf4d6b5494b89ffc72b4ec584b9931"
+          "size": 1969,
+          "sha512": "5166f6089a22df7360df9de7a2754da9a7dd5f1cebdc05bad93e545f0fe49a85c1bf336cb3b48e576fa63f64286ceab5ea01b0dd78ab2298d91840296cbd7174",
+          "sha256": "3d1566fd92808204681e0777fdbf3f6b8019fc308470563ea1f744b85d19a779",
+          "sha1": "19a7ebaa52101905f5210e6111872c5d99dbbf37",
+          "md5": "d542590f2ad709646b91cc02b6542914"
         }
       ]
     },
@@ -49,11 +49,11 @@
         {
           "name": "DropperSeedCracker-1.0.0.jar",
           "url": "DropperSeedCracker-1.0.0.jar",
-          "size": 1963,
-          "sha512": "4e3b8577dd954921e8b7633e46991cb3a6adb8f728cce3c5b3c449aa430e20c0268d8fd784e6e1a2dc53858737b0ca6b7e67cfe2fac8abff8f08865de58d8b2b",
-          "sha256": "1d63d22aa6bb3a21722e3c2a4408ce4b4862a2249df0a21b806911ac26cbaae0",
-          "sha1": "15576533b09ad7e41099485316d87521a4dc4591",
-          "md5": "e1cf4d6b5494b89ffc72b4ec584b9931"
+          "size": 1969,
+          "sha512": "5166f6089a22df7360df9de7a2754da9a7dd5f1cebdc05bad93e545f0fe49a85c1bf336cb3b48e576fa63f64286ceab5ea01b0dd78ab2298d91840296cbd7174",
+          "sha256": "3d1566fd92808204681e0777fdbf3f6b8019fc308470563ea1f744b85d19a779",
+          "sha1": "19a7ebaa52101905f5210e6111872c5d99dbbf37",
+          "md5": "d542590f2ad709646b91cc02b6542914"
         }
       ]
     }
