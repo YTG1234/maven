@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "io.github.ytg1234",
+    "group": "com.SomeoneThatIDontKnow",
     "module": "DropperSeedCracker",
     "version": "1.0.0",
     "attributes": {
@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.5",
-      "buildId": "73ashvbhdbguxaiw3ac34hgbtm"
+      "buildId": "j4zeea5wg5afbervbvxsnft62a"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "DropperSeedCracker-1.0.0.jar",
           "url": "DropperSeedCracker-1.0.0.jar",
           "size": 1963,
-          "sha512": "418442e5bf95411db17a994b0d839189f310ba7be4b3ffb44c72527e064adf7106795314dc2b86e323f56a4651798c16df9bf7136b9f9d80a25907885d92400a",
-          "sha256": "dd86d732116f606fd7dffbc1f18cda5f5a99b8c208f1596a82b05d5b1622cc70",
-          "sha1": "e6c9daf3b426fbdb6ce95c97fff362ccada5784c",
-          "md5": "0d364b66e6d45f52f48a754fdc97ef5d"
+          "sha512": "4e3b8577dd954921e8b7633e46991cb3a6adb8f728cce3c5b3c449aa430e20c0268d8fd784e6e1a2dc53858737b0ca6b7e67cfe2fac8abff8f08865de58d8b2b",
+          "sha256": "1d63d22aa6bb3a21722e3c2a4408ce4b4862a2249df0a21b806911ac26cbaae0",
+          "sha1": "15576533b09ad7e41099485316d87521a4dc4591",
+          "md5": "e1cf4d6b5494b89ffc72b4ec584b9931"
         }
       ]
     },
@@ -50,10 +50,10 @@
           "name": "DropperSeedCracker-1.0.0.jar",
           "url": "DropperSeedCracker-1.0.0.jar",
           "size": 1963,
-          "sha512": "418442e5bf95411db17a994b0d839189f310ba7be4b3ffb44c72527e064adf7106795314dc2b86e323f56a4651798c16df9bf7136b9f9d80a25907885d92400a",
-          "sha256": "dd86d732116f606fd7dffbc1f18cda5f5a99b8c208f1596a82b05d5b1622cc70",
-          "sha1": "e6c9daf3b426fbdb6ce95c97fff362ccada5784c",
-          "md5": "0d364b66e6d45f52f48a754fdc97ef5d"
+          "sha512": "4e3b8577dd954921e8b7633e46991cb3a6adb8f728cce3c5b3c449aa430e20c0268d8fd784e6e1a2dc53858737b0ca6b7e67cfe2fac8abff8f08865de58d8b2b",
+          "sha256": "1d63d22aa6bb3a21722e3c2a4408ce4b4862a2249df0a21b806911ac26cbaae0",
+          "sha1": "15576533b09ad7e41099485316d87521a4dc4591",
+          "md5": "e1cf4d6b5494b89ffc72b4ec584b9931"
         }
       ]
     }
