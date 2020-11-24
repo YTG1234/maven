@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.ytg1234",
+    "module": "DropperSeedCracker",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.5",
+      "buildId": "73ashvbhdbguxaiw3ac34hgbtm"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "DropperSeedCracker-1.0.0.jar",
+          "url": "DropperSeedCracker-1.0.0.jar",
+          "size": 1963,
+          "sha512": "418442e5bf95411db17a994b0d839189f310ba7be4b3ffb44c72527e064adf7106795314dc2b86e323f56a4651798c16df9bf7136b9f9d80a25907885d92400a",
+          "sha256": "dd86d732116f606fd7dffbc1f18cda5f5a99b8c208f1596a82b05d5b1622cc70",
+          "sha1": "e6c9daf3b426fbdb6ce95c97fff362ccada5784c",
+          "md5": "0d364b66e6d45f52f48a754fdc97ef5d"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "DropperSeedCracker-1.0.0.jar",
+          "url": "DropperSeedCracker-1.0.0.jar",
+          "size": 1963,
+          "sha512": "418442e5bf95411db17a994b0d839189f310ba7be4b3ffb44c72527e064adf7106795314dc2b86e323f56a4651798c16df9bf7136b9f9d80a25907885d92400a",
+          "sha256": "dd86d732116f606fd7dffbc1f18cda5f5a99b8c208f1596a82b05d5b1622cc70",
+          "sha1": "e6c9daf3b426fbdb6ce95c97fff362ccada5784c",
+          "md5": "0d364b66e6d45f52f48a754fdc97ef5d"
+        }
+      ]
+    }
+  ]
+}
