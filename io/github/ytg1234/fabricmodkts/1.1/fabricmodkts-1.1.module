@@ -1,0 +1,128 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.ytg1234",
+    "module": "fabricmodkts",
+    "version": "1.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.7",
+      "buildId": "bpwwwjzorvfftlhsnhdct3k7wi"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-scripting-common",
+          "version": {
+            "requires": "1.4.21"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.6"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.4.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "fabricmodkts-1.1.jar",
+          "url": "fabricmodkts-1.1.jar",
+          "size": 92204,
+          "sha512": "d0da09e024312b0280230b3e96a59c7e2eae59771018d6c363c41fcd5c1aa4146a00328f0278a1bb6f12b060a657124b04222c4df217c0dba4912b9e2ca9ec4d",
+          "sha256": "bbd6b342736a9cfd957d0f4dca71e75acf7f368adf2df629a383a314612474ad",
+          "sha1": "d4efb745caecc43b83c8c70842aef0b080eac87f",
+          "md5": "88505b1af53c654ece798cb69c0efb76"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-scripting-jvm",
+          "version": {
+            "requires": "1.4.21"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-scripting-jvm-host",
+          "version": {
+            "requires": "1.4.21"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-reflect",
+          "version": {
+            "requires": "1.4.21"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-scripting-common",
+          "version": {
+            "requires": "1.4.21"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.6"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.4.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "fabricmodkts-1.1.jar",
+          "url": "fabricmodkts-1.1.jar",
+          "size": 92204,
+          "sha512": "d0da09e024312b0280230b3e96a59c7e2eae59771018d6c363c41fcd5c1aa4146a00328f0278a1bb6f12b060a657124b04222c4df217c0dba4912b9e2ca9ec4d",
+          "sha256": "bbd6b342736a9cfd957d0f4dca71e75acf7f368adf2df629a383a314612474ad",
+          "sha1": "d4efb745caecc43b83c8c70842aef0b080eac87f",
+          "md5": "88505b1af53c654ece798cb69c0efb76"
+        }
+      ]
+    }
+  ]
+}
